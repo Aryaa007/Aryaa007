@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arya Singh Parihar
 - 👀 Interests: Machine Learning and making cool tech stuff
-- 🌱 Currently Learning: Mastering ML, Web Dev, and how to not rage-quit DSA problems 😆
+- 🌱 Currently Learning: Mastering ML, and how to not rage-quit DSA problems 😆
 - 😄 Pronouns: She/Her
 - ⚡ Fun Fact: I can solve ML problems but not my sleep schedule! 😴
 
